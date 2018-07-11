@@ -1,0 +1,1 @@
+C:/wamp64/www/magento2/vendor/magento/module-checkout/view/frontend/web/js/sidebar.js
